@@ -394,12 +394,12 @@ p {
   transition: all 300ms linear;
 }
 .swiper-pagination-bullet:hover {
-  background-color: #146CDA;
+  background-color: #146301;
 }
 
 .swiper-pagination-bullet-active {
   opacity: 1;
-  background-color: #146CDA;
+  background-color: #146301;
 }
 
 .swiper-container-horizontal > .swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
@@ -429,7 +429,7 @@ p {
   right: 0;
   height: 2px;
   bottom: -1px;
-  background: #146cda;
+  background: #146301;
 }
 
 .sticky-nav.menu_fixed {
@@ -472,7 +472,7 @@ p {
 #scrollUp {
   width: 50px;
   height: 50px;
-  background-color: #146cda;
+  background-color: #146301;
   color: #fff;
   right: 20px;
   bottom: 60px;
@@ -631,13 +631,13 @@ p {
   margin-right: 5px;
 }
 .header-nav ul li ul.dropdown-menu li:hover > a {
-  color: #146cda;
+  color: #146301;
 }
 .header-nav ul li ul.dropdown-menu li:last-child a {
   border-bottom: 0px solid #ebebeb;
 }
 .header-nav ul li button:hover {
-  color: #146cda;
+  color: #146301;
 }
 @media only screen and (max-width: 575px) {
   .header-nav .header-static-nav {
@@ -663,6 +663,13 @@ p {
   color: #1d1d1d !important;
 }
 
+
+.color1{
+  background-color: #146301;
+}
+
+
+
 .header-top .header-right-element .contact-link {
   float: right;
   padding-left: 45px;
@@ -679,7 +686,7 @@ p {
   font-weight: 700;
 }
 .header-top .header-right-element .contact-link a:hover {
-  color: #146cda;
+  color: #146301;
 }
 .header-top .header-right-element .contact-link:before {
   content: "";
@@ -960,7 +967,7 @@ p {
   transform: translateY(-50%);
 }
 .header-menu .header-horizontal-menu li.menu-dropdown ul.main-sub-menu li:hover > a {
-  color: #146cda;
+  color: #056e05;
   padding-left: 10px;
 }
 .header-menu .header-horizontal-menu li.menu-dropdown ul.main-sub-menu li.position-static {
@@ -1336,7 +1343,6 @@ p {
   background-size: cover;
   position: relative;
   z-index: 1;
-  background-color: #bebebe;
   -webkit-transition: all 0.3s ease-in-out !important;
   transition: all 0.3s ease-in-out !important;
 }
@@ -1347,7 +1353,6 @@ p {
   width: 100%;
   height: 100%;
   content: "";
-  background: #fff;
   z-index: -1;
   opacity: 0.2;
 }
@@ -1382,7 +1387,6 @@ p {
   text-align: center;
   display: inline-block;
   background-color: #146CDA;
-  color: #fff;
   font-weight: 700;
   border-radius: 5px;
   font-size: 14px;
@@ -1682,7 +1686,7 @@ p {
   text-transform: capitalize;
   text-align: center;
   z-index: 1;
-  background: #146cda;
+  background: #146301;
 }
 .list-product .product-decs {
   padding: 15px;
@@ -1694,7 +1698,7 @@ p {
   line-height: 1;
   margin-bottom: 10px;
   display: block;
-  color: #146cda;
+  color: #146301;
 }
 .list-product .product-decs h2 {
   font-weight: 400;
@@ -1814,7 +1818,7 @@ p {
   font-size: 16px;
   text-align: center;
   text-transform: capitalize;
-  background: #146cda;
+  background: #146301;
 }
 .list-product .add-to-link a:hover {
   background: #1d1d1d;
@@ -2189,7 +2193,7 @@ p {
 }
 
 .footer-area {
-  background-color: #146cda;
+  background-color: #146301;
   color: #FFFFFF;
 }
 .footer-area .footer-top {
@@ -2317,7 +2321,7 @@ p {
   display: inline-block;
   vertical-align: middle;
   color: #fff;
-  background: #247cea;
+  background: #219c02;
   font-size: 16px;
   padding: 0;
   line-height: 40px;
@@ -2606,11 +2610,11 @@ body.offcanvas-open {
   border-radius: 5px;
 }
 .offcanvas .inner .foot .buttons a:hover {
-  background-color: #146cda;
+  background-color: #146301;
   color: #fff;
 }
 .offcanvas .inner .foot .buttons .current-btn {
-  background-color: #146cda;
+  background-color: #146301;
   color: #fff;
 }
 .offcanvas .inner .foot .sub-total {
@@ -2886,7 +2890,7 @@ offcanvas-menu > ul > li .menu-expand {
   }
 }
 .header-tools .cart-info a:hover {
-  color: #146cda;
+  color: #146301;
 }
 @media only screen and (max-width: 575px) {
   .header-tools .cart-info .shuffle {
@@ -3577,7 +3581,7 @@ offcanvas-menu > ul > li .menu-expand {
   font-weight: 700;
   color: #fff;
   border-radius: 5px;
-  background: #146cda;
+  background: #146301;
   margin-bottom: 15px;
 }
 .shop-list-wrap .list-product .box-inner .add-to-link li a.cart-btn:hover {
@@ -4931,7 +4935,7 @@ offcanvas-menu > ul > li .menu-expand {
   margin: 0 0 10px;
 }
 .tax-select-wrapper button.cart-btn-2 {
-  background: #146cda;
+  background: #146301;
   border-radius: 5px;
   color: #fff;
   display: inline-block;
@@ -4963,7 +4967,7 @@ offcanvas-menu > ul > li .menu-expand {
   border-radius: 5px;
 }
 .discount-code-wrapper .discount-code button.cart-btn-2 {
-  background: #146cda;
+  background: #146301;
   border-radius: 5px;
   color: #fff;
   display: inline-block;
