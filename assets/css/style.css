@@ -6495,3 +6495,49 @@ offcanvas-menu > ul > li .menu-expand {
   visibility: visible;
 }
 
+
+
+.footer-bottom {
+  padding: 20px 0;
+  width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.footer-bottom hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+.payment-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.payment-img {
+  max-width: 100%;
+  height: auto;
+  /* Ensure image is not too large on desktop */
+  width: 1000px;
+}
+
+/* Mobile Responsive Design */
+@media screen and (max-width: 768px) {
+  .payment-img {
+      width: 100%;
+      height: auto;
+      /* Adjust height for mobile while maintaining aspect ratio */
+      max-height: 100px;
+  }
+  
+  .container {
+      padding: 0 10px;
+  }
+}
